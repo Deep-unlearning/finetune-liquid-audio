@@ -1,6 +1,5 @@
 """
-ULTRA-MINIMAL with Weights & Biases tracking.
-All dtype issues fixed. Pure manual training loop + W&B logging.
+[WiP] Training script for LiquidAI/LFM2-Audio-1.5B
 """
 
 import torch
